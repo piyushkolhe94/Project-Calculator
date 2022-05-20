@@ -3,7 +3,9 @@ num1=20
 num=10
 sum=num1 + num2 ;
 
+num1=20 num=10 substraction=num1 - num2 ;
+
 num1=20
 num=10
-substraction=num1 - num2 ;
+Multiply=num1 * num2 ;
 
